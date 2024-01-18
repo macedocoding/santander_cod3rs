@@ -1,0 +1,1 @@
+lista = [a for a in nomes if a[0] is 'A']

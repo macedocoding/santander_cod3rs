@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "santander-cod3rs"
+version = "0.1.0"
+description = "Exercícios e projetos da formação Engenheiro de Dados do Santander Cod3rs 2023.2"
+authors = ["macedocoding <macedo@tuta.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
